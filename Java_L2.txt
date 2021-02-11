@@ -1,0 +1,17 @@
+Два источника, где брать Java:
+1) Oracle JDK	Open JDK	(Java Standart Edition)
+	Java SE
+		JRE (Java run-time Environment) - JVM (Java Virtual Machine)
+		JDK 				-  JVM + Compiler
+
+2) Eclipse	(Java  Enterprice Edition)
+
+
+!!!Желаемо скачивать Java portable-version (удобно)!!!
+
+Какую версию скачивать (java [version] is JDK [version]):
+Java 8 (стабильная)
+LTS
+
+
+PATH = "JAVA_HOME"	-	путь до JDK 
